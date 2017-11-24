@@ -33,6 +33,7 @@ div#resume h2 {
 
 div#resume h2 span {
   position: absolute;
+  margin-left: 100px;
   bottom: 0;
   right: 0;
   font-style: italic;
@@ -42,8 +43,11 @@ div#resume h2 span {
   font-weight: normal
 }
 
-div#resume p {
-  margin: 0 0 16px 0
+div#resume p span {
+  margin: 0 0 16px 10px;
+  color: #999;
+  font-family: Georgia, serif;
+  font-style: italic;
 }
 
 div#resume a {
