@@ -18,11 +18,11 @@ div#resume h1 {
   font-size: 42px;
   font-weight: bold;
   letter-spacing: -2px;
-  border-bottom: 2px solid #ffeb3b;
+  border-bottom: 2px solid #33b5e5;
   line-height: 50px;
   font-family: cursive;
   font-style: italic;
-  color: #fdd835;
+  color: #33b5e5;
 }
 
 div#resume h2 {
@@ -75,7 +75,7 @@ div#resume dt {
   text-align: right;
   padding: 0 26px 0 0;
   width: 150px;
-  border-right: 2px solid #ffeb3b
+  border-right: 2px solid #33b5e5
 }
 
 div#resume dl {
